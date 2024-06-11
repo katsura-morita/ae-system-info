@@ -1,0 +1,46 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "System Info"
+msgstr "システム情報"
+
+msgid "PHP Version"
+msgstr "PHPバージョン"
+
+msgid "Latest stable version"
+msgstr "最新安定版"
+
+msgid "MySQL Version"
+msgstr "MySQLバージョン"
+
+msgid "DB Name"
+msgstr "データベース名"
+
+msgid "WordPress Version"
+msgstr "WordPressバージョン"
+
+msgid "Server Software"
+msgstr "サーバソフトウェア"
+
+msgid "Document Root"
+msgstr "ドキュメントルート"
+
+msgid "Remote Address"
+msgstr "リモートアドレス"
+
+msgid "User Agent"
+msgstr "ユーザーエージェント"
+
+msgid "Cookies"
+msgstr "クッキー"
+
+msgid "Session"
+msgstr "セッション"
+
+msgid "No cookies found"
+msgstr "クッキーが見つかりません"
+
+msgid "No session data found"
+msgstr "セッションデータが見つかりません"
